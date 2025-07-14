@@ -1,6 +1,6 @@
-hi! I’m gabriel, currently working in finance as an economist and just starting to get the grips of incorporating coding to my analysis routine. 
+hi! I’m gabriel, currently working in finance as an economist and just starting to get the hang of incorporating coding into my analysis routine. 
 
-here I plan to share some of my R scripts which have shown to be quite useful to me, bearing in mind that they may not be the most optimized - I'm still learning, after all.
-also, may be worth mentioning that I jumped right into working in R via VSCode, not RStudio, so there could be some tools specific to RStudio that I'm unaware of.
+here I plan to share some of my R scripts which have have proven quite useful to me, bearing in mind that they may not be the most optimized - I'm still learning, after all.
+also, it may be worth mentioning that I jumped right into working in R via VSCode, not RStudio, so there could be some RStudio specific tools that I'm unaware of.
 
-be welcome to reach me about anything R related :) 
+feel free to reach out about anything R related :) 
